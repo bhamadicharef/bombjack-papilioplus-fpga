@@ -1,0 +1,1 @@
+This is an implementation of the Bomb Jack arcade game on the Papilio Plus and Pipistrello FPGA boards. The game was translated to VHDL from the game schematic and used the existing T80 and YM2149 cores for the Z80 CPU and the programmable sound generators.
